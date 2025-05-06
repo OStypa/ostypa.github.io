@@ -1,1 +1,0 @@
-# ostypa.github.io
