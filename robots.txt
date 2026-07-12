@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ostypa.github.io/sitemap.xml
